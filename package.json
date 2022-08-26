@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "saucectl": "^0.106.0"
+  }
+}
